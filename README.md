@@ -11,7 +11,11 @@ You can circle through the watchface by pushing the right buttons. This part of 
 
 
 
-https://github.com/MartMarq/bubble/assets/139223739/5f0f0afa-f182-4650-8898-ba5c00f195d3
+
+https://github.com/MartMarq/bubble/assets/139223739/6f0eb615-91dd-4d1d-b3ba-e5d582629c13
+
+
+
 
 
 
